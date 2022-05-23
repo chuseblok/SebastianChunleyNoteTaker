@@ -1,6 +1,5 @@
 const express = require('express');
 const apiRoutes = require('./routes/apiroutes');
-const { clog } = require('./middleware/clog');
 const htmlroutes = require('./routes/htmlroutes');
 
 const app = express();
