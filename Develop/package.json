@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "clog-js": "^0.0.1",
-    "express": "^4.17.3",
-    "express-middleware": "^3.4.2",
-    "uuid": "^8.3.2"
+    "express": "^4.16.4",
+    "uuid": "^3.4.0"
   }
 }
